@@ -1,0 +1,18 @@
+{
+  "name": "2017-okcoders-day-5",
+  "version": "0.0.1",
+  "description": "To Do list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.5",
+    "restify": "^4.3.0"
+  }
+}
